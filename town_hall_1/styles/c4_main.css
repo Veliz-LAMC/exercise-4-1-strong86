@@ -19,9 +19,14 @@ main h1 {
 main h2 {
 	color: var(--global-color-1);
 	font-size: 130%;
+	font-size: 170%;
+	color: #800000;
+	   <p class = "indent"> </p>
+	 
 }
 main h3 {
-	font-size: 105%;
+	font-size: 130%;
+	<p class = "indent"> </p>
 }
 
 /* the styles for the footer */
